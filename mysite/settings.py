@@ -25,14 +25,14 @@ SECRET_KEY = 'django-insecure-tbhty(v_gcdmje4-61f=tdfab6_yof8g-i@a!(2=0t=&lkv5mh
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['chatlive04.herokuapp.com']
+ALLOWED_HOSTS = ['djangochat05.herokuapp.com']
 
 
 # Application definition
 
 INSTALLED_APPS = [
     'channels',
-    'chatapp',
+    'main_app',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
