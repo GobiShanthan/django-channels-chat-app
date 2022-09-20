@@ -136,7 +136,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # mysite/settings.py
 # Channels
-ASGI_APPLICATION = 'mysite.asgi.application'
 # mysite/settings.py
 # Channels
 ASGI_APPLICATION = 'mysite.asgi.application'
